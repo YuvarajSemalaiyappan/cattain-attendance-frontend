@@ -80,6 +80,7 @@ textarea:focus {
   font-size: 15px;
   margin-right: 2rem;
   position: relative;
+  color: white;
 }
 .Login-Register a:nth-last-child(1) {
   margin-right: 0rem;

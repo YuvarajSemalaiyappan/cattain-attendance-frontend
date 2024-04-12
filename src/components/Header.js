@@ -75,17 +75,18 @@ const Header = () => {
                         <i className="fas fa-user"></i>
                       </button>
                       <div className="dropdown-menu">
+                        <button >
                         <Link
                           className="dropdown-item"
                           to="/login"
-                          style={{ color: "white" }}
+                          
                         >
                           Login
-                        </Link>
+                        </Link></button>
                         <Link
                           className="dropdown-item"
                           to="/register"
-                          style={{ color: "white" }}
+                          
                         >
                           Register
                         </Link>
